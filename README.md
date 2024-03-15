@@ -5,7 +5,7 @@
 ### 🙆‍♀️ Обо мне
 
 
-- 📧 Связь со мной [![Habr Badge](httpshabr.comruusersAnastasia_Kostyaeva)](httpshabr.comruusersAnastasia_Kostyaeva) [![Gmail Badge](httpsmail.google.commailu0#inbox)](anastasia.costyaeva@gmail.com)
+- 📧 Связь со мной [![Habr Badge](https://habr.com/ru/users/Anastasia_Kostyaeva/)](https://habr.com/ru/users/Anastasia_Kostyaeva/) [![Gmail Badge](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](anastasia.costyaeva@gmail.com)
 
 ---
 ### 🌜🌛 Социальные сети
