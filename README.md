@@ -1,5 +1,5 @@
 ### Привет, меня зовут Настя!
-[![Header](https://github.com/Kostyayka/Kostyayka/blob/main/assets/animation.gif.mp4)]
+[![Header](https://github.com/Kostyayka/Kostyayka/blob/main/assets/Header.jpg)]
 ---
 
 ### 🙆‍♀️ Обо мне
