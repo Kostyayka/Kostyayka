@@ -24,6 +24,6 @@
 ![Python](https://img.shields.io/badge/-Python-FFC8E7?style=for-the-badge&logo=python)
 ![теория тестирования](https://img.shields.io/badge/-Теория%20тестирования-FFC8E7?style=for-the-badge&logo=Теория%20тестирования)
 ![REST API](https://img.shields.io/badge/-Rest%20api-FFC8E7?style=for-the-badge&logo=Rest%20api)
-![SoapUI](https://img.shields.io/badge/-SoapUI-FFC8E7?style=for-the-badge&logo=soapui)
+![Soap](https://img.shields.io/badge/-Soap-FFC8E7?style=for-the-badge&logo=soap)
 
 ### 📁 Тестовая документация:
