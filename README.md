@@ -18,7 +18,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-FFC8E7?style=flat&logo=mysql&logoColor=F29111)
 ![Python](https://img.shields.io/badge/-Python-FFC8E7?style=flat&logo=python)
 ![теория тестирования](https://img.shields.io/badge/-Теория%20тестирования-FFC8E7?style=flat&logo=Теория%20тестирования)
-![REST API](https://img.shields.io/badge/-Rest%20api-FFC8E7?style=flat&logo=Rest%20api)
-![Soap](https://img.shields.io/badge/-Soap-FFC8E7?style=flat&logo=soap)
+![REST API](https://img.shields.io/badge/-REST%20API-FFC8E7?style=flat&logo=Rest%20api)
+![Soap](https://img.shields.io/badge/-SOAP-FFC8E7?style=flat&logo=soapui)
 
 ### 📁 Тестовая документация:
