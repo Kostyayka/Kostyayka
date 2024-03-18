@@ -22,5 +22,7 @@
 
 ![Sql](https://img.shields.io/badge/-Sql-FFC8E7?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-FFC8E7?style=for-the-badge&logo=python)
+![теория тестирования](https://img.shields.io/badge/-Теория%20тестирования-FFC8E7?style=for-the-badge&logo=Теория%20тестирования)
+
 
 ### 📁 Тестовая документация:
