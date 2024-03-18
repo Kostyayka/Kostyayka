@@ -20,7 +20,7 @@
 
 ### 🔑 Ключевые навыки:
 
-![Sql](https://img.shields.io/badge/-Sql-DC86AD?style=for-the-badge&logo=mysql$logoColor=DC7630)
-![Python](https://img.shields.io/badge/-Python-DC86AD?style=for-the-badge&logo=python$logoColor=FFE974)
+![Sql](https://img.shields.io/badge/-Sql-DC86AD?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-DC86AD?style=for-the-badge&logo=python)
 
 ### 📁 Тестовая документация:
