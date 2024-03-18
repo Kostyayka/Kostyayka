@@ -6,7 +6,7 @@
 
 Я начинаю свой путь в тестировании, и по-тихоньку изучаю Python. По большей части хочу влиться в автоматизированное тестирование. ✨
 
-- 📧 Связь со мной: [![Habr Badge](https://habrastorage.org/getpro/moikrug/uploads/company/901/244/761/logo/medium_c35efb293cd85320d66e74304d3a8076.jpg?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/Anastasia_Kostyaeva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anastasia.costyaeva@gmail.com)
+- 📧 Связь со мной: [![Habr Badge](https://github.com/Kostyayka/Kostyayka/blob/main/assets/medium_c35efb293cd85320d66e74304d3a8076.jpg)](https://habr.com/ru/users/Anastasia_Kostyaeva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anastasia.costyaeva@gmail.com)
 
 ---
 ### 🌜🌛 Социальные сети:
