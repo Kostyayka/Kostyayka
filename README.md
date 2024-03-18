@@ -20,5 +20,5 @@
 ![теория тестирования](https://img.shields.io/badge/-Теория%20тестирования-FFC8E7?style=flat&logo=Теория%20тестирования)
 ![REST API](https://img.shields.io/badge/-REST%20API-FFC8E7?style=flat&logo=Rest%20api)
 ![Soap](https://img.shields.io/badge/-SOAP-FFC8E7?style=flat&logo=soapui)
-
-### 📁 Тестовая документация:
+![Postman](https://img.shields.io/badge/-POSTMAN-FFC8E7?style=flat&logo=Postman)
+![Git](https://img.shields.io/badge/-Git-FFC8E7?style=flat&logo=Git)
