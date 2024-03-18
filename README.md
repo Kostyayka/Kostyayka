@@ -6,8 +6,9 @@
 
 Я начинаю свой путь в тестировании, и по-тихоньку изучаю Python. Хочу "влиться" в автоматизированное тестирование. ✨
 
-- 📧 Связь со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anastasia.costyaeva@gmail.com)
-
+### 📧 Связь со мной: 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anastasia.costyaeva@gmail.com)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=flat&logo=VK&logoColor=4F7DB3)](https://vk.com/id126034775)
 ---
 ### 🌜🌛 Социальные сети:
 <div id="badges">
