@@ -7,9 +7,9 @@
 Я начинаю свой путь в тестировании, и по-тихоньку изучаю Python. Хочу "влиться" в автоматизированное тестирование. ✨
 
 ### 📧 Связь со мной: 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=flat&logo=Gmail&logoColor=white)](mailto:anastasia.costyaeva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=flat&logo=Gmail&logoColor=D54435)](mailto:anastasia.costyaeva@gmail.com)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=flat&logo=VK&logoColor=4F7DB3)](https://vk.com/id126034775)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=Telegram&logoColor=4F7DB3)](https://t.me/AnastasiaCost)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=Telegram&logoColor=239CD7)](https://t.me/AnastasiaCost)
 
 ---
 
